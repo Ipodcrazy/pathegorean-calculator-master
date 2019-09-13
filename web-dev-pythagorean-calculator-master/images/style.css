@@ -1,0 +1,79 @@
+html{
+    background-color: maroon;
+}
+
+body{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding-right: 75px;
+    padding-left: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+.title{
+    font-family: "Maven Pro";
+    color: #808000;
+}
+
+p{
+    font-family: "Open Sans";
+    letter-spacing: 0.3px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 50%;
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(235, 235, 235);
+    border: 1px grey;
+    border-style: groove;
+    
+}
+h2{
+    font-family: "Maven Pro";
+    color: maroon;
+    
+}
+h3{
+    font-family: "Maven Pro";
+    color: maroon;
+}
+
+.cal{
+    font-family: "Open Sans";
+    background-color: #808000;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    font-variant: small-caps;
+}
+
+.ocal{
+    padding-top: 0px;
+    padding-bottom: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 14px;
+    font-variant: small-caps;
+    border: 2px black;
+    border-style: solid;
+}
+
+.quiz{
+    color:maroon;
+}
